@@ -29,11 +29,11 @@ VALUES
     ('Thomas', 'TAYLOR', 7, null),
     ('Jennifer', 'GARCIA',8, 7),
     ('Michael', 'MILLER', 9, null),
-    ('Linda', 'DAVIS', 10, 9);
-    -- ('David', 'RODRIGUEZ', 1, null),
-    -- ('Patricia', 'BROWN', 2, 4),
-    -- ('Elizabeth', 'MARTINEZ', 8, null),
-    -- ('Robert', 'WILLIAMS', 8, 1),
-    -- ('William', 'HERNANDEZ', 9, 17),
-    -- ('Barbara', 'LOPEZ', 9, 17),
-    -- ('Richard', 'GONZALEZ', 10, null);
+    ('Linda', 'DAVIS', 10, 9),
+    ('David', 'RODRIGUEZ', 1, null),
+    ('Patricia', 'BROWN', 3, null),
+    ('Elizabeth', 'MARTINEZ', 5, null),
+    ('Robert', 'WILLIAMS', 7, null),
+    ('William', 'HERNANDEZ', 9, null),
+    ('Barbara', 'LOPEZ', 9, null),
+    ('Richard', 'GONZALEZ', 3, null);
